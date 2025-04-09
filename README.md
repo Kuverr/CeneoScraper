@@ -13,8 +13,8 @@
 1. Dla każdej opinii wyodrębnienie danych i przypisanie ich do struktury danych
 1. Rozdzielenie danych na pojedyncze elementy (obiekty/słowniki)
 1. Wyświetlenie przygotowanych informacji na stronie
-1. Przejście do kolejnej strony opinii jeśli istnieje
-1. Zapisanie danych do bazy danych
+1. Jeżeli istnieje kolejna strona z opiniami, przejście do niej i powtórzenie kroków 1-4
+1. Zapisanie wyników do bazy danych
 
 
 ## Struktura opinii w serwisie Ceneo.pl
